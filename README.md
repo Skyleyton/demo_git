@@ -1,5 +1,3 @@
-# Hello world
-> Il est 11:37.
-> Maintenant il est 11:43.
+# Je donne l'heure
 
-Nouveau push
+Il est 14h22m.
